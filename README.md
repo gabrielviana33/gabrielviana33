@@ -1,16 +1,16 @@
-### Hi there 👋
+# Seja bem vindo! 
+**Este Repositório tem o objetivo de ser meu ambiente de estudos documentados servindo também como portifólio**
 
-<!--
-**gabrielviana33/gabrielviana33** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🙋‍♀️ Meu nome é Gabriel Pereira Viana e sou apaixonado pela área de testes de software, estudante de Análise e Desenvolvimento de Sistemas
 
-Here are some ideas to get you started:
+🧙 Meu foco atual é a área de QA com utilização de metodologias ágeis. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👩‍💻 Conhecimentos que possuo maior confiança são: JavaScript, CSS, HTML e Cypress.
+
+🍿 Muito estudo de caso vai ter nesse perfil, principalmente com testes em ambiente WEB.
+
+🧙 Estou a disposição para tirar qualquer dúvida e ajudar sua equipe ou empresa! 
+
+[Linkedin](www.linkedin.com/in/gabrielvianatester)
+
+Ou no Email: gabrieltester33@gmail.com
