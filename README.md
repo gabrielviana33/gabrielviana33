@@ -11,6 +11,6 @@
 
 🧙 Estou a disposição para tirar qualquer dúvida e ajudar sua equipe ou empresa! 
 
-[Linkedin](www.linkedin.com/in/gabrielvianatester)
+[Linkedin](https://www.linkedin.com/in/gabrielvianatester/)
 
 Ou no Email: gabrieltester33@gmail.com
